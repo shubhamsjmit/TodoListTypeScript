@@ -1,0 +1,70 @@
+body{
+    background: linear-gradient( to right,#185a9D,#43cea2);
+    background: url("./../Image/images.jpg") ;
+}
+.mainbody
+{
+    background: aqua;
+    width: 500px;
+    min-height: 400px;
+    height: auto;
+    margin-top: 100px;
+    margin-left: 400px;
+    border: 2px solid;
+    margin-bottom: 50px;
+}
+.stat_1 , .stat_2{
+    display: inline;
+    margin-top: 10px;
+}
+li{
+    list-style: none;
+}
+ul{
+    margin-top: 10px;
+}
+button{
+    margin-top :4px;
+    margin-left: 4px;
+    float :right;
+}
+.inputfield{
+    width: 100%;
+}
+#add{
+    width: 98%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#tasknew{
+    width: 98%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.list-group{
+    width: 98%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+label{
+    float: left;
+    width:200px;
+    height: 30px;
+    /*background-color : aquamarine;*/
+}
+.list-group.stat_1.upInp{
+    float: right;
+
+}
+.list-group.upInp{
+    width: 190px;
+
+}
+.insideInput{
+    float: left;
+    width: 200px;
+    height: 30px;
+}
+li{
+     background-color : aquamarine;
+ }
